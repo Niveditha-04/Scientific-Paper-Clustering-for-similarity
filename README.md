@@ -98,5 +98,6 @@ UMAP preserves more global structure than t-SNE — cluster boundaries are more 
 **Prerequisites:** Python 3.x
 ```bash
 pip install scikit-learn nltk umap-learn matplotlib seaborn pandas
-Open notebooks/clustering_pipeline.ipynb and run cells in order. The notebook covers all 8 stages from data loading to topic modelling output.
+Open notebooks/clustering_pipeline.ipynb and run cells in order
+The notebook covers all 8 stages from data loading to topic modelling output
 
